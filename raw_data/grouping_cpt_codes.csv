@@ -1,0 +1,20 @@
+CPT Code,Group Name,Group Number,Description
+31231,Diagnostic nasal endoscopy,1,"Diagnostic nasal endoscopy, unilateral or bilateral"
+31233,Diagnostic nasal endoscopy,1,"Diagnostic nasal endoscopy with biopsy, polypectomy, or debridement"
+31235,Diagnostic nasal endoscopy,1,Diagnostic nasal endoscopy with removal of foreign body
+31237,Endoscopy with biopsy or debridement,2,"Nasal endoscopy with biopsy, polypectomy, or debridement (postoperative or therapeutic)"
+31238,Endoscopy with epistaxis control,3,Nasal endoscopy with control of epistaxis (nosebleed)
+31239,Endoscopy with DCR,4,"Nasal endoscopy with dacryocystorhinostomy (DCR), creation of tear drainage opening"
+31240,Endoscopy with concha bullosa resection,5,Nasal endoscopy with concha bullosa resection (middle turbinate air cell removal)
+31254,Functional endoscopic sinus surgery - Ethmoid/Maxillary/Frontal,6,Nasal endoscopy with partial ethmoidectomy (anterior ethmoid sinus surgery)
+31255,Functional endoscopic sinus surgery - Ethmoid/Maxillary/Frontal,6,Nasal endoscopy with total ethmoidectomy (anterior and posterior ethmoid sinuses)
+31256,Functional endoscopic sinus surgery - Ethmoid/Maxillary/Frontal,6,Nasal endoscopy with maxillary antrostomy (opening into maxillary sinus)
+31267,Functional endoscopic sinus surgery - Ethmoid/Maxillary/Frontal,6,Nasal endoscopy with maxillary antrostomy and tissue removal
+31276,Functional endoscopic sinus surgery - Ethmoid/Maxillary/Frontal,6,Nasal endoscopy with frontal sinus exploration or surgery
+31287,Functional endoscopic sinus surgery - Sphenoid,7,Nasal endoscopy with sphenoidotomy (opening into sphenoid sinus)
+31288,Functional endoscopic sinus surgery - Sphenoid,7,Nasal endoscopy with sphenoidotomy and tissue removal
+31290,CSF Leak Repair,8,"Nasal endoscopy with repair of cerebrospinal fluid (CSF) leak, anterior cranial fossa"
+31291,CSF Leak Repair,8,Nasal endoscopy with repair of CSF leak using graft or flap
+31292,Endoscopic orbital/optic nerve surgery,9,Nasal endoscopy with orbital decompression
+31293,Endoscopic orbital/optic nerve surgery,9,Nasal endoscopy with optic nerve decompression
+31294,Endoscopic orbital/optic nerve surgery,9,Nasal endoscopy with orbital and optic nerve decompression combined
